@@ -1,4 +1,4 @@
-# configure-ad
+# virtualmachine
 <p align="center">
 <img src="https://i.imgur.com/4wqxHID.png" height="40%" width="60%" alt="Microsoft Azure Logo"/>
 </p>
